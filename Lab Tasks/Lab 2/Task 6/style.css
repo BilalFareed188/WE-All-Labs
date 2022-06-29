@@ -1,0 +1,18 @@
+body{
+    margin-top: 250px;
+    background-color: #1c5256;
+}
+a {
+    border: 2px solid black;
+    border-bottom-width: 3px;
+    border-radius: 5px;
+    background-color: white;
+    color: #053b3f;
+    padding: 10px 30px;
+    margin: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #114F5A;
+    color: #C49450;
+}
